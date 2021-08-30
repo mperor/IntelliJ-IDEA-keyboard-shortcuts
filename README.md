@@ -62,6 +62,8 @@
 | Comment/uncomment (line)    | `Ctrl + /`               | =                      | 🔸🔹`Ctrl + /`             |
 | Comment/uncomment (block)   | `Ctrl + Shift + /`       | =                      | 🔸🔹`Ctrl + Shift + /`     |
 | Rollback changes            | `Ctrl + Alt + Z`         | ?                      | 🔸`Ctrl + Alt + Z`         |
+| Close active editor tab     | `Ctrl + Shift + F4`      | `Ctrl + W`             | 🔸💡`Ctrl + F4`            |
+| Close                       | `Ctrl + F4`              | `Ctrl + W`             | 🔹💡`Ctrl + W`             |
 
 ### Navigation 🗺
 
@@ -74,8 +76,8 @@
 | Go to editor (escape)        | `ESC`                      | -                         | 🔸`ESC`                     |
 | Recent files popup           | `Ctrl + E`                 | `Ctrl + E`                | 🔸`Ctrl + E`                |
 | Go to line                   | `Ctrl + G`                 | `Ctrl + L`                | 🔹`Ctrl + L`                |
-| Navigate back/forward        | `Ctrl + Alt + Left/Right`  | `Alt + Left/Right`        | 🔹`Alt + Left/Right`        |
-| Go to prev/next editor tab   | `Alt + Right/Left`         | `Ctrl + Alt + Left/Right` | 🔹`Ctrl + Alt + Left/Right` |
+| Navigate back/forward        | `Ctrl + Alt + Left/Right`  | `Alt + Left/Right`        | 🔹`Alt + Left/Right`        |
+| Go to prev/next editor tab   | `Alt + Right/Left`         | `Ctrl + Alt + Left/Right` | 🔹`Ctrl + Alt + Left/Right` |
 | Move to code block end/start | `Ctrl + ]/[`               | ?                         | 🔸`Ctrl + ]/[`              |
 | Type hierarchy               | `Ctrl + H`                 | `F4`                      | 🔹`F4`                      |
 | Quick documentation lookup   | `Ctrl + Q`                 | `F2`                      | 🔹`F2`                      |
