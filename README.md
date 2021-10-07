@@ -81,6 +81,8 @@
 | Move to code block end/start | `Ctrl + ]/[`               | ?                         | 🔸`Ctrl + ]/[`              |
 | Type hierarchy               | `Ctrl + H`                 | `F4`                      | 🔹`F4`                      |
 | Quick documentation lookup   | `Ctrl + Q`                 | `F2`                      | 🔹`F2`                      |
+| Find in file/path ...        | `Ctrl + Shift + F`         | `Ctrl + H`                | 🔹`Ctrl + H`                |
+| Replace in file/path ...     | `Ctrl + Shift + R`         | `Ctrl + H`                | 💡`Ctrl + Alt + R`          |
 
 ### Usage Search 🔍
 
