@@ -1,0 +1,48 @@
+<keymap version="1" name="InUse" parent="Eclipse">
+  <action id="ChangesView.GroupBy.Module" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="ExtractInterface">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
+  <action id="ExtractSuperclass">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="HighlightUsagesInFile">
+    <keyboard-shortcut first-keystroke="shift ctrl f7" />
+  </action>
+  <action id="Images.Thumbnails.Hide" />
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+    <keyboard-shortcut first-keystroke="shift alt i" />
+  </action>
+  <action id="Inline" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="RunToCursor" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="TodoViewGroupByShowModules" />
+  <action id="UsageGrouping.Module" />
+  <action id="com.dubreuia.core.action.ShortcutAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
+</keymap>
