@@ -6,6 +6,10 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorUnSelectWord" />
   <action id="ExtractInterface">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
@@ -16,9 +20,11 @@
   <action id="ExtractSuperclass">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
+  <action id="FileChooser.TogglePathBar" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="GuiDesigner.ShrinkSelection" />
   <action id="HighlightUsagesInFile">
     <keyboard-shortcut first-keystroke="shift ctrl f7" />
   </action>
@@ -28,9 +34,16 @@
     <keyboard-shortcut first-keystroke="shift alt i" />
   </action>
   <action id="Inline" />
+  <action id="IntentionActionAsAction_com.intellij.testIntegration.createTest.CreateTestAction">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Print" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -41,6 +54,7 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
+  <action id="SmartUnSelect" />
   <action id="TodoViewGroupByShowModules" />
   <action id="UsageGrouping.Module" />
   <action id="com.dubreuia.core.action.ShortcutAction" />
